@@ -1,0 +1,112 @@
+{
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
+"build" : 76490,
+"version" : 118,
+"fonts" : [
+
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
+"appVersion" : "54.1",
+"build" : 76490,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 118,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.76490"
+],
+"appVersion" : "54.1",
+"pagesAndArtboards" : {
+"8387E4DF-2662-4447-AD77-E102BB20D953" : {
+"name" : "Applause",
+"artboards" : {
+"BB100AED-B2D7-4C96-8A58-AC3FF72779BF" : {
+"name" : "Applause \/ Romelu Lukaku"
+}
+}
+},
+"4C0E06F6-24AA-4FD6-8656-90B9E3F43DF3" : {
+"name" : "Deal with it",
+"artboards" : {
+"26D8F4CF-E4BF-42E5-822D-8581810F8542" : {
+"name" : "Deal with it \/ Glasses"
+},
+"E3144945-421F-4652-8FDA-01E3FDA75437" : {
+"name" : "Deal with it \/ Doge"
+}
+}
+},
+"0BA484D8-6CB7-43B1-95B0-08B0D2C652EF" : {
+"name" : "IDK",
+"artboards" : {
+
+}
+},
+"DC1AF635-AA2D-470F-891C-89297AE50406" : {
+"name" : "Eww",
+"artboards" : {
+
+}
+},
+"DFC4C896-CAFE-4D1E-98FF-39B43C01BD87" : {
+"name" : "Dance",
+"artboards" : {
+"EE2FFBF1-F8B9-4F7C-AA71-CC49D5579724" : {
+"name" : "Dance \/ Garfield"
+}
+}
+},
+"548A9250-2DFF-4397-B5BC-C97C48653352" : {
+"name" : "Shrug",
+"artboards" : {
+"6B2C3F7C-27BD-46D8-9E9A-355C14745C99" : {
+"name" : "Shrug \/ Guess I'll Die"
+},
+"8744CA60-D228-4AA9-8316-8AA0C8399719" : {
+"name" : "Shrug \/ Kanye West"
+},
+"2BF0D0E7-24A1-4310-B07E-67A02BDD8E2D" : {
+"name" : "Shrug \/ Donald Trump"
+}
+}
+},
+"5E71BA1F-43FA-479C-A314-4EF32A1463AE" : {
+"name" : "Hearts",
+"artboards" : {
+
+}
+},
+"9A092379-C5F3-41E8-BE6A-A64813F0BD46" : {
+"name" : "Nice",
+"artboards" : {
+"1B941BB8-01AC-40D8-9E67-896F0857BD9F" : {
+"name" : "Nice \/ Picasso"
+}
+}
+},
+"FB0DBD7C-0AE7-47AA-841F-E007543FC90C" : {
+"name" : "Do not want",
+"artboards" : {
+
+}
+},
+"470B23EF-D823-4269-A925-094AFAAE15EB" : {
+"name" : "Pointing",
+"artboards" : {
+
+}
+},
+"C18610C6-8D51-4793-803C-3A009AD8CE29" : {
+"name" : "Seriously",
+"artboards" : {
+
+}
+}
+}
+}
