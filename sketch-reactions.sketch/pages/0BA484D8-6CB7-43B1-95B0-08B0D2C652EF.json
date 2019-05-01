@@ -7,7 +7,13 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"base" : -1014,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
 "frame" : {
 "x" : 0,
 "y" : 0,
@@ -17,6 +23,67 @@
 "width" : 0
 },
 "do_objectID" : "0BA484D8-6CB7-43B1-95B0-08B0D2C652EF",
+"hasClickThrough" : true,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : -647,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "IDK",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"symbolID" : "B3AF9C76-C2B9-419C-BD1E-9CD6AD35411A",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : true,
+"height" : 424,
+"width" : 345
+},
+"do_objectID" : "58F7AE3E-494B-43A4-B2D1-A9377F71EDEF",
 "layerListExpandedType" : 0,
 "exportOptions" : {
 "shouldTrim" : false,
@@ -29,32 +96,131 @@
 
 ]
 },
-"hasClickThrough" : true,
-"horizontalRulerData" : {
-"base" : -1014,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
-"includeInCloudUpload" : true,
-"verticalRulerData" : {
-"base" : -647,
-"_class" : "rulerData",
-"guides" : [
-
-]
+"image" : {
+"_ref_class" : "MSImageData",
+"_class" : "MSJSONFileReference",
+"_ref" : "images\/bb659dc6ec6b9c29419c648489f32f181f13dae6.png"
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
-"name" : "IDK",
-"isVisible" : true,
-"resizingType" : 0,
 "clippingMaskMode" : 0,
+"name" : "Tommy Walsh",
+"isVisible" : true,
 "hasClippingMask" : false,
-"layers" : [
+"clippingMask" : "{{0, 0}, {1, 1}}",
+"nameIsFixed" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"constraints" : {
+"scaleFactor" : 1,
+"model_version" : 0,
+"aspectRatio" : {
+"multiplier" : 345,
+"enabled" : 1,
+"constant" : 424,
+"modelID" : "constraint_3f4f6bca-dcff-489e-80b7-95917c963950",
+"model_class" : "ADModelConstraint",
+"model_version" : 0
+},
+"modelID" : "viewConstraints_628019d9-ee12-4a2a-8763-e981ef26b1d1",
+"model_class" : "ADModelViewConstraints",
+"automatic" : 1
+}
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"fillReplacesImage" : false,
+"isFixedToViewport" : false,
+"_class" : "bitmap",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"intendedDPI" : 72
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 7,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : false,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
 
 ],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "IDK \/ Tommy Walsh",
+"resizingType" : 0,
+"do_objectID" : "0BB28116-8BA5-4F14-8B22-1EC1AD0A1FA4",
+"overrideProperties" : [
+{
+"overrideName" : "58F7AE3E-494B-43A4-B2D1-A9377F71EDEF_image",
+"_class" : "MSImmutableOverrideProperty",
+"canOverride" : true
+}
+],
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : -173,
+"y" : -213,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 424,
+"width" : 345
+},
+"includeBackgroundColorInInstance" : true,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"allowsOverrides" : true,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"com.animaapp.uses.anima" : 1
+}
+},
 "isLocked" : false,
 "groupLayout" : {
 "_class" : "MSImmutableFreeformGroupLayout"

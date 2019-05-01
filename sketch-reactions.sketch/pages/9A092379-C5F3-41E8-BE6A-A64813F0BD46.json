@@ -1,33 +1,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 0,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : false,
-"height" : 0,
-"width" : 0
+"height" : 0
 },
 "do_objectID" : "9A092379-C5F3-41E8-BE6A-A64813F0BD46",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "hasClickThrough" : true,
 "horizontalRulerData" : {
@@ -75,33 +75,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 600,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : true,
-"height" : 437,
-"width" : 600
+"height" : 437
 },
 "do_objectID" : "83C1EC5F-6EA2-4A93-BC31-49739A702538",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -120,12 +120,12 @@
 "scaleFactor" : 1,
 "model_version" : 0,
 "aspectRatio" : {
-"modelID" : "constraint_93d0cc81-cac8-40f3-8630-210349d1fb71",
+"enabled" : 1,
 "model_version" : 0,
 "multiplier" : 600,
+"modelID" : "constraint_93d0cc81-cac8-40f3-8630-210349d1fb71",
 "model_class" : "ADModelConstraint",
-"constant" : 437,
-"enabled" : 1
+"constant" : 437
 },
 "modelID" : "viewConstraints_c8235a07-bddc-4934-a1b7-7246e7a36673",
 "model_class" : "ADModelViewConstraints",
@@ -172,31 +172,31 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Nice \/ Picasso",
 "resizingType" : 0,
 "do_objectID" : "1B941BB8-01AC-40D8-9E67-896F0857BD9F",
 "overrideProperties" : [
 {
-"overrideName" : "83C1EC5F-6EA2-4A93-BC31-49739A702538_image",
+"canOverride" : true,
 "_class" : "MSImmutableOverrideProperty",
-"canOverride" : true
+"overrideName" : "83C1EC5F-6EA2-4A93-BC31-49739A702538_image"
 }
 ],
 "horizontalRulerData" : {
@@ -207,12 +207,12 @@
 ]
 },
 "frame" : {
-"x" : -430,
 "y" : -304,
+"width" : 600,
 "_class" : "rect",
+"x" : -430,
 "constrainProportions" : false,
-"height" : 437,
-"width" : 600
+"height" : 437
 },
 "layerListExpandedType" : 0,
 "isFlippedHorizontal" : false,

@@ -1,33 +1,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 300,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : false,
-"height" : 300,
-"width" : 300
+"height" : 300
 },
 "do_objectID" : "8387E4DF-2662-4447-AD77-E102BB20D953",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "hasClickThrough" : true,
 "horizontalRulerData" : {
@@ -75,33 +75,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 2.8421709430404007e-14,
 "y" : 0,
+"width" : 444.99999999999989,
 "_class" : "rect",
+"x" : 2.8421709430404007e-14,
 "constrainProportions" : true,
-"height" : 485,
-"width" : 444.99999999999989
+"height" : 485
 },
 "do_objectID" : "548BC54E-9044-4E8D-88E0-0B750CD369ED",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -120,12 +120,12 @@
 "scaleFactor" : 1,
 "model_version" : 0,
 "aspectRatio" : {
-"modelID" : "constraint_6bb51a9b-77cb-49f5-831b-a2a49a9982ec",
+"enabled" : 1,
 "model_version" : 0,
 "multiplier" : 445,
+"modelID" : "constraint_6bb51a9b-77cb-49f5-831b-a2a49a9982ec",
 "model_class" : "ADModelConstraint",
-"constant" : 485,
-"enabled" : 1
+"constant" : 485
 },
 "modelID" : "viewConstraints_5e30686f-d1d9-4027-a73f-d9b5de347306",
 "model_class" : "ADModelViewConstraints",
@@ -172,31 +172,31 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Applause \/ Romelu Lukaku",
 "resizingType" : 0,
 "do_objectID" : "BB100AED-B2D7-4C96-8A58-AC3FF72779BF",
 "overrideProperties" : [
 {
-"overrideName" : "548BC54E-9044-4E8D-88E0-0B750CD369ED_image",
+"canOverride" : true,
 "_class" : "MSImmutableOverrideProperty",
-"canOverride" : true
+"overrideName" : "548BC54E-9044-4E8D-88E0-0B750CD369ED_image"
 }
 ],
 "horizontalRulerData" : {
@@ -207,12 +207,12 @@
 ]
 },
 "frame" : {
-"x" : 674,
 "y" : 287,
+"width" : 445,
 "_class" : "rect",
+"x" : 674,
 "constrainProportions" : false,
-"height" : 485,
-"width" : 445
+"height" : 485
 },
 "layerListExpandedType" : 0,
 "isFlippedHorizontal" : false,

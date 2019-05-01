@@ -1,33 +1,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 0,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : false,
-"height" : 0,
-"width" : 0
+"height" : 0
 },
 "do_objectID" : "DFC4C896-CAFE-4D1E-98FF-39B43C01BD87",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "hasClickThrough" : true,
 "horizontalRulerData" : {
@@ -75,33 +75,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 379,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : true,
-"height" : 527,
-"width" : 379
+"height" : 527
 },
 "do_objectID" : "E2849D5F-9723-4294-B2FA-2E05A3284F66",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -120,12 +120,12 @@
 "scaleFactor" : 1,
 "model_version" : 0,
 "aspectRatio" : {
-"modelID" : "constraint_6877f7dc-5210-44ba-8513-b444aee3810c",
+"enabled" : 1,
 "model_version" : 0,
 "multiplier" : 379,
+"modelID" : "constraint_6877f7dc-5210-44ba-8513-b444aee3810c",
 "model_class" : "ADModelConstraint",
-"constant" : 527,
-"enabled" : 1
+"constant" : 527
 },
 "modelID" : "viewConstraints_3d3daeca-fd31-420b-bebd-a1b0f45381dc",
 "model_class" : "ADModelViewConstraints",
@@ -172,31 +172,31 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Dance \/ Garfield",
 "resizingType" : 0,
 "do_objectID" : "EE2FFBF1-F8B9-4F7C-AA71-CC49D5579724",
 "overrideProperties" : [
 {
-"overrideName" : "E2849D5F-9723-4294-B2FA-2E05A3284F66_image",
+"canOverride" : true,
 "_class" : "MSImmutableOverrideProperty",
-"canOverride" : true
+"overrideName" : "E2849D5F-9723-4294-B2FA-2E05A3284F66_image"
 }
 ],
 "horizontalRulerData" : {
@@ -207,12 +207,12 @@
 ]
 },
 "frame" : {
-"x" : -275,
 "y" : -291,
+"width" : 379,
 "_class" : "rect",
+"x" : -275,
 "constrainProportions" : false,
-"height" : 527,
-"width" : 379
+"height" : 527
 },
 "layerListExpandedType" : 0,
 "isFlippedHorizontal" : false,

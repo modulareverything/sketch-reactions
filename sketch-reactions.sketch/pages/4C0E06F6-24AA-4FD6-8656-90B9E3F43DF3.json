@@ -1,33 +1,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 0,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : false,
-"height" : 0,
-"width" : 0
+"height" : 0
 },
 "do_objectID" : "4C0E06F6-24AA-4FD6-8656-90B9E3F43DF3",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "hasClickThrough" : true,
 "horizontalRulerData" : {
@@ -61,33 +61,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : -381,
 "y" : -114,
+"width" : 350.00000000000011,
 "_class" : "rect",
+"x" : -381,
 "constrainProportions" : true,
-"height" : 49.999999999999993,
-"width" : 350.00000000000011
+"height" : 49.999999999999993
 },
 "do_objectID" : "47DE9BAB-58A8-4144-8AF8-A0F50CF40F20",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -106,12 +106,12 @@
 "scaleFactor" : 1,
 "model_version" : 0,
 "aspectRatio" : {
-"modelID" : "constraint_b3015299-598c-4104-9eb1-e1615d298592",
+"enabled" : 1,
 "model_version" : 0,
 "multiplier" : 350,
+"modelID" : "constraint_b3015299-598c-4104-9eb1-e1615d298592",
 "model_class" : "ADModelConstraint",
-"constant" : 50,
-"enabled" : 1
+"constant" : 50
 },
 "modelID" : "viewConstraints_0e8dd98a-bc18-49f7-ada6-3f3ba37e1cc8",
 "model_class" : "ADModelViewConstraints",
@@ -149,33 +149,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 300,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : true,
-"height" : 300,
-"width" : 300
+"height" : 300
 },
 "do_objectID" : "13E2FCC5-28C4-4B01-8AAE-45645998AAEB",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -194,12 +194,12 @@
 "scaleFactor" : 1,
 "model_version" : 0,
 "aspectRatio" : {
-"modelID" : "constraint_f806cb33-f80c-46a6-a8a3-5eeb27f91ed4",
+"enabled" : 1,
 "model_version" : 0,
 "multiplier" : 300,
+"modelID" : "constraint_f806cb33-f80c-46a6-a8a3-5eeb27f91ed4",
 "model_class" : "ADModelConstraint",
-"constant" : 300,
-"enabled" : 1
+"constant" : 300
 },
 "modelID" : "viewConstraints_1c7833ab-b3ae-4a54-9eba-6b08d8d3370a",
 "model_class" : "ADModelViewConstraints",
@@ -246,22 +246,22 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Deal with it \/ Doge",
 "resizingType" : 0,
@@ -277,12 +277,12 @@
 ]
 },
 "frame" : {
-"x" : 394,
 "y" : -146,
+"width" : 300,
 "_class" : "rect",
+"x" : 394,
 "constrainProportions" : false,
-"height" : 300,
-"width" : 300
+"height" : 300
 },
 "layerListExpandedType" : 0,
 "isFlippedHorizontal" : false,
@@ -331,22 +331,22 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Deal with it \/ Glasses",
 "resizingType" : 0,
@@ -362,12 +362,12 @@
 ]
 },
 "frame" : {
-"x" : -381,
 "y" : -114,
+"width" : 350,
 "_class" : "rect",
+"x" : -381,
 "constrainProportions" : false,
-"height" : 50,
-"width" : 350
+"height" : 50
 },
 "layerListExpandedType" : 0,
 "isFlippedHorizontal" : false,

@@ -1,33 +1,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 0,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : false,
-"height" : 0,
-"width" : 0
+"height" : 0
 },
 "do_objectID" : "548A9250-2DFF-4397-B5BC-C97C48653352",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "hasClickThrough" : true,
 "horizontalRulerData" : {
@@ -75,33 +75,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : -5.6843418860808009e-14,
+"width" : 498,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : true,
-"height" : 414,
-"width" : 498
+"height" : 414
 },
 "do_objectID" : "FC3130FC-E218-47FF-B414-F87AFC8BBF4E",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -120,12 +120,12 @@
 "scaleFactor" : 1,
 "model_version" : 0,
 "aspectRatio" : {
-"modelID" : "constraint_7dfcbcd2-ed9b-4749-83ad-3a3157e837d6",
+"enabled" : 1,
 "model_version" : 0,
 "multiplier" : 498,
+"modelID" : "constraint_7dfcbcd2-ed9b-4749-83ad-3a3157e837d6",
 "model_class" : "ADModelConstraint",
-"constant" : 414,
-"enabled" : 1
+"constant" : 414
 },
 "modelID" : "viewConstraints_a71d5cfc-4e3e-41d7-9d76-4629f6b63b86",
 "model_class" : "ADModelViewConstraints",
@@ -172,22 +172,22 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Shrug \/ Kanye West",
 "resizingType" : 0,
@@ -203,12 +203,12 @@
 ]
 },
 "frame" : {
-"x" : -519,
 "y" : -280,
+"width" : 498,
 "_class" : "rect",
+"x" : -519,
 "constrainProportions" : false,
-"height" : 414,
-"width" : 498
+"height" : 414
 },
 "layerListExpandedType" : 0,
 "isFlippedHorizontal" : false,
@@ -233,33 +233,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 583,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : true,
-"height" : 316,
-"width" : 583
+"height" : 316
 },
 "do_objectID" : "3A301574-20BE-4378-856C-9A77F567C987",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -278,12 +278,12 @@
 "scaleFactor" : 1,
 "model_version" : 0,
 "aspectRatio" : {
-"modelID" : "constraint_e76aaf75-b613-428a-9ac4-f73c8ea6d5ad",
+"enabled" : 1,
 "model_version" : 0,
 "multiplier" : 583,
+"modelID" : "constraint_e76aaf75-b613-428a-9ac4-f73c8ea6d5ad",
 "model_class" : "ADModelConstraint",
-"constant" : 316,
-"enabled" : 1
+"constant" : 316
 },
 "modelID" : "viewConstraints_7e69e1bc-8528-4fb5-8788-a5a78cfee707",
 "model_class" : "ADModelViewConstraints",
@@ -330,22 +330,22 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Shrug \/ Donald Trump",
 "resizingType" : 0,
@@ -361,12 +361,12 @@
 ]
 },
 "frame" : {
-"x" : 123,
 "y" : -280,
+"width" : 583,
 "_class" : "rect",
+"x" : 123,
 "constrainProportions" : false,
-"height" : 316,
-"width" : 583
+"height" : 316
 },
 "layerListExpandedType" : 0,
 "isFlippedHorizontal" : false,
@@ -391,33 +391,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 338,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : true,
-"height" : 287,
-"width" : 338
+"height" : 287
 },
 "do_objectID" : "FB6E3C31-0509-49C9-937D-1278AC7635BD",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -436,12 +436,12 @@
 "scaleFactor" : 1,
 "model_version" : 0,
 "aspectRatio" : {
-"modelID" : "constraint_9de1e642-1554-4d2a-89fa-20ea43a6878f",
+"enabled" : 1,
 "model_version" : 0,
 "multiplier" : 384,
+"modelID" : "constraint_9de1e642-1554-4d2a-89fa-20ea43a6878f",
 "model_class" : "ADModelConstraint",
-"constant" : 313,
-"enabled" : 1
+"constant" : 313
 },
 "modelID" : "viewConstraints_77376f1b-4ee6-478b-8687-c3bd782b3fa7",
 "model_class" : "ADModelViewConstraints",
@@ -488,31 +488,31 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Shrug \/ Guess I'll Die",
 "resizingType" : 0,
 "do_objectID" : "6B2C3F7C-27BD-46D8-9E9A-355C14745C99",
 "overrideProperties" : [
 {
-"overrideName" : "FB6E3C31-0509-49C9-937D-1278AC7635BD_image",
+"canOverride" : true,
 "_class" : "MSImmutableOverrideProperty",
-"canOverride" : true
+"overrideName" : "FB6E3C31-0509-49C9-937D-1278AC7635BD_image"
 }
 ],
 "horizontalRulerData" : {
@@ -523,12 +523,12 @@
 ]
 },
 "frame" : {
-"x" : -275,
 "y" : 334,
+"width" : 338,
 "_class" : "rect",
+"x" : -275,
 "constrainProportions" : false,
-"height" : 287,
-"width" : 338
+"height" : 287
 },
 "layerListExpandedType" : 0,
 "isFlippedHorizontal" : false,

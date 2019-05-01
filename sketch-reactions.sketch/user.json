@@ -1,7 +1,7 @@
 {
-"document" : {
-"pageListHeight" : 255,
-"pageListCollapsed" : 0
+"DC1AF635-AA2D-470F-891C-89297AE50406" : {
+"scrollOrigin" : "{1013, 646}",
+"zoomValue" : 1
 },
 "FDBDA48B-18EC-4A29-B9C4-E0412F953DCD" : {
 "scrollOrigin" : "{1013, 646}",
@@ -54,8 +54,8 @@
 "scrollOrigin" : "{519, 336}",
 "zoomValue" : 0.5
 },
-"DC1AF635-AA2D-470F-891C-89297AE50406" : {
-"scrollOrigin" : "{1013, 646}",
-"zoomValue" : 1
+"document" : {
+"pageListHeight" : 255,
+"pageListCollapsed" : 0
 }
 }
